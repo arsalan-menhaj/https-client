@@ -28,3 +28,4 @@ var requestOptions = {
   path: '/http-examples/step3.html'
 };
 
+getAndPrintHTML(requestOptions);
